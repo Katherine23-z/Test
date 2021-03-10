@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-10T11:44:51" hostname="DESKTOP-P89QR9Q" time="0.034">
+  <properties/>
+  <testcase name="newArrayFromLastIndexException()" classname="org.example.MainTest" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
